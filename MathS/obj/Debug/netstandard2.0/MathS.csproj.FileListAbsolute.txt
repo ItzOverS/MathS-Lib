@@ -1,0 +1,9 @@
+C:\Users\Dn\source\repos\MathS\MathS\bin\Debug\netstandard2.0\MathS.deps.json
+C:\Users\Dn\source\repos\MathS\MathS\bin\Debug\netstandard2.0\MathS.dll
+C:\Users\Dn\source\repos\MathS\MathS\bin\Debug\netstandard2.0\MathS.pdb
+C:\Users\Dn\source\repos\MathS\MathS\obj\Debug\netstandard2.0\MathS.csprojAssemblyReference.cache
+C:\Users\Dn\source\repos\MathS\MathS\obj\Debug\netstandard2.0\MathS.csproj.CoreCompileInputs.cache
+C:\Users\Dn\source\repos\MathS\MathS\obj\Debug\netstandard2.0\MathS.AssemblyInfoInputs.cache
+C:\Users\Dn\source\repos\MathS\MathS\obj\Debug\netstandard2.0\MathS.AssemblyInfo.cs
+C:\Users\Dn\source\repos\MathS\MathS\obj\Debug\netstandard2.0\MathS.dll
+C:\Users\Dn\source\repos\MathS\MathS\obj\Debug\netstandard2.0\MathS.pdb
